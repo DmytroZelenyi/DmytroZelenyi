@@ -38,6 +38,9 @@
 
   <!-- Build Tools -->
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimazelenyi01@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DjenDjeley)
 </p>
 
 ---
