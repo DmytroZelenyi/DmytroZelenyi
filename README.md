@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&height=220&section=header&text=Hi,%20I'm%20a%20Full-Stack%20Developer&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+DmutroZel;Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВІЙ_НІКНЕЙМ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВІЙ_НІКНЕЙМ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DmutroZel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmutroZel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
