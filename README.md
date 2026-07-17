@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmutroZel&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmutroZel&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 </p>
 
 ---
